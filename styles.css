@@ -1,0 +1,14 @@
+.color-change {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease; /* Define a transição suave de 0.3 segundos para a cor */
+}
+
+.color-change:hover {
+    color: #FF5733; /* Define a cor que deseja quando o mouse passar por cima */
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+}
